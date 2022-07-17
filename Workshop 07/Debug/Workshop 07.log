@@ -1,0 +1,3 @@
+﻿  CovidCollection.cpp
+C:\Users\Tyler Hamvas\Desktop\CPA\Semester 3\OOP345\Workshop Work\WS07\Workshop 07\CovidCollection.cpp(101,14): warning C4834: discarding return value of function with 'nodiscard' attribute
+  Workshop 07.vcxproj -> C:\Users\Tyler Hamvas\Desktop\CPA\Semester 3\OOP345\Workshop Work\WS07\Workshop 07\Debug\Workshop 07.exe
